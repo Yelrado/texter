@@ -11,4 +11,4 @@ e.g.
 
 class Texter(object):
     def toText(self, number):
-        return 'cero'
+        pass
