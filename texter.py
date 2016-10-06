@@ -6,7 +6,7 @@ units, tens and hundreds
 e.g. 
 1 = uno
 10 = diez
-1958 = mil novecientos cincuenta y ocho
+239 = dos cientos treinta y nueve
 '''
 
 class Texter(object):
